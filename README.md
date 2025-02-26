@@ -2,4 +2,4 @@
 
 Tracks facial features. Detects drowsy eyes and sounds an alarm if closed.
 
-![Face Features](face_features.png)
+![Face Features](/face_features.png)
